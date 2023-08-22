@@ -1,0 +1,10 @@
+{
+    "program": "poems1mxydh.aleo",
+    "version": "0.0.1",
+    "description": "This is a signature Verification Proof. Only the executor can verify the interpretation hash sent by the executor of this program to verify their hash's authenticity for the use of a function in an offchain program",
+    "license": "MIT", 
+    "development": {
+        "private_key": "APrivateKey1zkp43fYYjtBm6jaQjnUk9s7fXL6pQJrBZVShp7SmiTqTLWx", 
+        "address": "aleo1mxydh902u86qzdkl24khmxf6cm50fms4je25umvr5xwmq4rsn59su3k8a6" 
+    }
+}
